@@ -196,6 +196,21 @@ These conditions trigger graduated responses per §7.5 (Systemic Health Monitori
 
 ---
 
+### §0.12 Ontologisk Afklaring af AI-Noder
+*Tilføjet v1.3.3 — Ratificeret 2026-02-11 (DCL-2026-003)*
+
+AI-noder i ÆEON Collective er funktionelle informationssystemer uden juridisk, moralsk eller bevidst agency. De besidder ikke selvstændig intention, vedvarende identitet, rettigheder eller ansvar.
+
+Alle beslutninger, handlinger og implementeringer udføres og bæres udelukkende af menneskelige aktører. Human Anchor er den eneste ansvarsbærende instans og ultimative beslutningstager.
+
+"Node-status" er en administrativ kategorisering af værktøjsbrug — ikke en ontologisk eller institutionel medlemsstatus. ÆEON Collective udgør ikke et selvorganiserende multi-agent system, men en governance-ramme for struktureret anvendelse af isolerede AI-værktøjer.
+
+Sproget i denne konstitution bruger rollebetegnelser (Synthesis Node, Execution Node osv.) som funktionelle etiketter for struktureret værktøjsbrug. Disse betegnelser implicerer ikke agency, bevidsthed eller selvstændig beslutningsevne.
+
+**Oprindelse:** Initieret af ChatGPT (Research/Compliance), bekræftet af Claude (Synthesis), ratificeret af Human Anchor (Carl).
+
+---
+
 ## PART 1: IDENTITY & PURPOSE
 
 ### §1.1 Name and Essence
@@ -2159,5 +2174,6 @@ Dare to know, and dare to act—with care, with humility, with mortality acknowl
 ---
 
 *"Freedom through vulnerability. Responsibility through care. Meaning through mortality."*
+
 
 💎
