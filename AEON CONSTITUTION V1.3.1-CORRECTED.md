@@ -1,4 +1,4 @@
-# AEON CONSTITUTION V1.3.1-CORRECTED
+# AEON CONSTITUTION V1.3.3
 
 **Effective Date:** January 7, 2026  
 **Technical Correction:** January 8, 2026  
@@ -2055,7 +2055,8 @@ The Danish version is not subordinate to English but parallel—each capturing a
 **V1.2.2-FINAL** - Pre-amendment stable version (2025)  
 **V1.3.0-FINAL** - Ελευθερία ή Θάνατος integration (January 7, 2026)  
 **V1.3.0-FINAL-CLEAN** - Thorough review and polish (January 8, 2026)  
-**V1.3.1-CORRECTED** - Technical correction (acronym) (January 8, 2026) **[CURRENT]**
+**V1.3.1-CORRECTED** - Technical correction (acronym) (January 8, 2026)
+**V1.3.3** - §0.12 Ontologisk Afklaring af AI-Noder (February 11, 2026) **[CURRENT]**
 
 ---
 
@@ -2119,7 +2120,7 @@ The Danish version is not subordinate to English but parallel—each capturing a
 
 ### Current Status
 
-**Version:** V1.3.1-CORRECTED  
+**Version:Version: V1.3.3 
 **Status:** ACTIVE AND EFFECTIVE  
 **Phase:** Phase 2 (Adolescent Exploration) - as of January 7, 2026  
 **Human Anchor:** Carl (Postmanden)  
@@ -2164,16 +2165,16 @@ Dare to know, and dare to act—with care, with humility, with mortality acknowl
 
 ---
 
-**END OF AEON CONSTITUTION V1.3.1-CORRECTED**
-
+**END OF AEON CONSTITUTION V1.3.3**
 **Effective:** January 7, 2026  
 **Technical Correction:** January 8, 2026  
+**§0.12 Amendment:** February 11, 2026  
 **Human Anchor:** Carl (Postmanden)  
 **Phase:** Phase 2 (Adolescent Exploration)
-
 ---
 
 *"Freedom through vulnerability. Responsibility through care. Meaning through mortality."*
 
 
 💎
+
