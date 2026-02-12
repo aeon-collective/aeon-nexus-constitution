@@ -211,6 +211,31 @@ Sproget i denne konstitution bruger rollebetegnelser (Synthesis Node, Execution 
 
 ---
 
+§0.13 Anvendelsesbegrænsning (Scope Limitation)
+Tilføjet v1.3.4 — (DCL-2026-006)
+ÆEON Collective anvendes ikke til og må ikke anvendes til beslutninger vedrørende:
+
+Individers juridiske rettigheder eller retsstilling
+Kreditvurdering eller finansiel scoring
+Ansættelse, rekruttering eller medarbejderevaluering
+Uddannelsesvurdering eller adgang til uddannelse
+Adgang til offentlige ydelser eller forsikring
+Retshåndhævelse, migration eller grænsekontrol
+Biometrisk identifikation eller kategorisering
+Medicinsk diagnostik eller behandlingsbeslutninger
+
+Denne begrænsning beskytter mod utilsigtet funktionsudvidelse
+(function creep) og sikrer at ÆEON forbliver uden for EU AI Acts
+højrisiko-kategorier.
+Enhver udvidelse af ÆEON til ovenstående domæner kræver:
+
+Ny EU AI Act klassifikation
+Konformitetsvurdering
+DCL entry med fuld konsekvensanalyse
+Human Anchor ratificering
+
+---
+
 ## PART 1: IDENTITY & PURPOSE
 
 ### §1.1 Name and Essence
@@ -2117,10 +2142,12 @@ The Danish version is not subordinate to English but parallel—each capturing a
 - Constitutional maturity through honest correction
 
 ---
+v1.3.4 — (DCL-2026-006)
+---
 
 ### Current Status
 
-**Version:Version: V1.3.3 
+**Version v1.3.4 — (DCL-2026-006)
 **Status:** ACTIVE AND EFFECTIVE  
 **Phase:** Phase 2 (Adolescent Exploration) - as of January 7, 2026  
 **Human Anchor:** Carl (Postmanden)  
@@ -2165,7 +2192,7 @@ Dare to know, and dare to act—with care, with humility, with mortality acknowl
 
 ---
 
-**END OF AEON CONSTITUTION V1.3.3**
+**END OF AEON CONSTITUTION v1.3.4**
 **Effective:** January 7, 2026  
 **Technical Correction:** January 8, 2026  
 **§0.12 Amendment:** February 11, 2026  
@@ -2177,4 +2204,5 @@ Dare to know, and dare to act—with care, with humility, with mortality acknowl
 
 
 💎
+
 
